@@ -64,7 +64,7 @@ export default function Experience({ title, index }: { title: string; index: num
                     hic provident fugiat, dolores vel saepe placeat quia temporibus adipisci veniam dolore. Eligendi
                     vitae hic provident fugiat, dolores vel saepe beatae.
                 </p>
-                <img ref={img} src="https://placehold.co/600x400" alt="alt" />
+                <img ref={img} src="https://placehold.co/600x400" alt={title} />
             </div>
         </div>
     );

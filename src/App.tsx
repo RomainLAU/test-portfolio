@@ -3,7 +3,7 @@ import Experience from './Steps/Experience';
 
 export default function App() {
     return (
-        <div className="flex justify-center items-center flex-col min-h-screen w-full bg-[#343131]">
+        <div id="web-container" className="flex justify-center items-center flex-col min-h-screen w-full bg-[#343131]">
             {/* <LoadingBar /> */}
             <First />
             <Experience title="Agilbox" index={0} />

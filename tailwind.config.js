@@ -6,7 +6,7 @@ export default {
             colors: {
                 primary: '#F7E3CB',
                 secondary: '#876255',
-                neutral: 'BBB046',
+                neutral: '#BBB0A6',
                 primaryDark: '#343131',
                 secondaryDark: '#434242',
                 accentColor: '#BD5B41',
